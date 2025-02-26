@@ -1,4 +1,4 @@
 # git-demo
 This is my first repo.
 <br>
-Author - Yaduraj
+Author - Yaduraj Singh
